@@ -1,0 +1,1 @@
+space type asteroid growth world Pieces consequences detected slowly six week try miles massive opportunity planets program added hit deep mph approached asteroid Asteroids all-night 

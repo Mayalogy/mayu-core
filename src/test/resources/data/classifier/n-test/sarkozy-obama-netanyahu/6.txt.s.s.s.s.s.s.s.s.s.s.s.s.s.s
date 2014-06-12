@@ -1,0 +1,1 @@
+microphone Obama Sarkozy Reporters relationship nuclear 

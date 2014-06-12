@@ -1,0 +1,1 @@
+history deployed volcanoes composition scientists well 1908 mass 1998 100 damage million Russia overall 1/3 diameter larger 100 asteroids 400 started suggest size explosion planets asteroid meters Earth easy anytime city miles frequency scientist years None rocks rare Scientists 

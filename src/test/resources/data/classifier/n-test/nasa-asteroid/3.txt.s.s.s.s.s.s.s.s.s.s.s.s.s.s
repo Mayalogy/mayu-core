@@ -1,0 +1,1 @@
+all-night radio trial professor Tuesday Deep asteroid 230-foot Object telescope 3 Earth facility orbit Nov 2011 miss mph asteroid approached spherical shuttle chance 8 viewers Scientists planet 7 County tracked Eastern University 202,000 ANGELES carrier won't 2011 & 

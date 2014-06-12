@@ -1,0 +1,1 @@
+frenzy helpful John towards liar Obama shift day ardent United 
