@@ -15,7 +15,7 @@ import com.mayalogy.mayu.core.WordGramExtractor;
 
 public class TestTrainingFileBalancer extends TestCase {
 
-	public void testScrambleFiles() throws IOException {
+	public void tDISABLEDtScrambleFiles() throws IOException {
 	    Random generator = new Random();
 		File d = new File("src/test/resources/data/classifier/n-test");
 		for(File sd:d.listFiles()) {
