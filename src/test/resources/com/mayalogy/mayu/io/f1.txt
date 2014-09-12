@@ -1,0 +1,2 @@
+[dog]|[listen]|*|1|dog
+[cat]|[listen]|*|-1|cat

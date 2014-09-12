@@ -45,5 +45,4 @@ public class TabularFileLoader {
 	public static List<TableRow> loadTabSeparated(String resourcePath) throws IOException {
 		return load( resourcePath, "\t");
 	}
-
 }

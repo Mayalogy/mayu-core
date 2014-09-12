@@ -46,6 +46,13 @@ public class TableRow {
 		}
 		return -1;
 	}
+	
+	public float getValueForColumnAsFloat(int colNum) {
+		if(hasColumn(colNum)) {
+			return Float.parseFloat(getValueForColumn(colNum));
+		}
+		return -1.0f;
+	}
 
 	public boolean getValueForColumnAsBoolean(int colNum) {
 		if(hasColumn(colNum)) {
